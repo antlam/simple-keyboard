@@ -74,7 +74,7 @@ class Demo {
         "{altleft}": "alt ⌥",
         "{altright}": "alt ⌥",
         "{metaleft}": "cmd ⌘",
-        "{metaright}": "cmd ⌘"
+        "{metaright}": "cmd ⌘",
       }
     });
 
